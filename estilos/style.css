@@ -14,7 +14,7 @@
 }
 
 body, html {
-    background-color: #4a2164;
+    background-image: linear-gradient(to bottom, #49a09d, #5f2c82);
     height: 100vh;
     width: 100vw;
 }
